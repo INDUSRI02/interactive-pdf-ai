@@ -1,10 +1,12 @@
 faiss-cpu
 langchain
+langchain-community
 google-generativeai
 PyPDF2
 streamlit
 transformers
 huggingface-hub
+
 
 
 
