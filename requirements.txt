@@ -1,0 +1,13 @@
+faiss-cpu
+langchain
+google-generativeai
+PyPDF2
+streamlit
+transformers
+huggingface
+huggingface-cli
+huggingface-download-cli
+torch
+warnings-plugin
+ctransformers
+sentence-transformers
