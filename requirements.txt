@@ -4,11 +4,7 @@ google-generativeai
 PyPDF2
 streamlit
 transformers
-huggingface
 huggingface-hub
-huggingface-download-hub
-torch
-warnings-plugin
-ctransformers
-sentence-transformers
+
+
 
