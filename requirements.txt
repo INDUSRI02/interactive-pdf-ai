@@ -5,9 +5,10 @@ PyPDF2
 streamlit
 transformers
 huggingface
-huggingface-cli
-huggingface-download-cli
+huggingface-hub
+huggingface-download-hub
 torch
 warnings-plugin
 ctransformers
 sentence-transformers
+
