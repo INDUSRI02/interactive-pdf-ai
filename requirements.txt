@@ -6,6 +6,9 @@ PyPDF2
 streamlit
 transformers
 huggingface-hub
+torch --index-url https://download.pytorch.org/whl/cpu
+
+
 
 
 
