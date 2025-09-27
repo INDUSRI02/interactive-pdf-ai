@@ -1,2 +1,16 @@
-./models
-./.venv
+# Virtual environment
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Models / large binaries
+models/
+*.bin
+*.ggml
+
+# OS files
+.DS_Store
+Thumbs.db
